@@ -89,7 +89,7 @@
      ]
     },
     {
-     "name": "Have panic button(s) or silent alarm(s) that directly connect to law enforcement in the event of an incident",
+     "name": Have "panic button(s) or silent alarm(s) that directly connect to law enforcement in the event of an incident",
      "children": [
       {"name": "29.9%", "value": 626}
      ]
@@ -158,33 +158,26 @@
    ]
   },
   {
-   "name": "animate",
+   "name": "Emergency procedures",
    "children": [
-    {"name": "Easing", "value": 17010},
-    {"name": "FunctionSequence", "value": 5842},
     {
-     "name": "interpolate",
+     "name": "Evacuation",
      "children": [
-      {"name": "ArrayInterpolator", "value": 1983},
-      {"name": "ColorInterpolator", "value": 2047},
-      {"name": "DateInterpolator", "value": 1375},
-      {"name": "Interpolator", "value": 8746},
-      {"name": "MatrixInterpolator", "value": 2202},
-      {"name": "NumberInterpolator", "value": 1382},
-      {"name": "ObjectInterpolator", "value": 1629},
-      {"name": "PointInterpolator", "value": 1675},
-      {"name": "RectangleInterpolator", "value": 2042}
+    {"name": "92.6%","value": 1937}  
      ]
     },
-    {"name": "ISchedulable", "value": 1041},
-    {"name": "Parallel", "value": 5176},
-    {"name": "Pause", "value": 449},
-    {"name": "Scheduler", "value": 5593},
-    {"name": "Sequence", "value": 5534},
-    {"name": "Transition", "value": 9201},
-    {"name": "Transitioner", "value": 19975},
-    {"name": "TransitionEvent", "value": 1116},
-    {"name": "Tween", "value": 6006}
+    {
+     "name": "Lockdown",
+     "children": [
+      {"name": "95.5%", "value": 1998}
+     ]
+    },
+    {
+     "name": "Shelter-in-place*",
+     "children": [
+      {"name": "79%", "value": 1693}
+     ]
+    }
    ]
   },
   {
