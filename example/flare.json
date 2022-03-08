@@ -1,5 +1,5 @@
 {
- "name": "flare",
+ "name": "School Policy",
  "children": [
   {
    "name": "analytics",
@@ -11,6 +11,14 @@
       {"name": "CommunityStructure", "value": 3812},
       {"name": "HierarchicalCluster", "value": 6714},
       {"name": "MergeEdge", "value": 743}
+      {"name": "Require visitors to sign or check in and wear badges","value": 95.4}  
+    {"name": "Control access to school buildings during school hours (e.g., locked or monitored doors)","value": 92.8}
+	{"name": "Control access to school grounds during school hours (e.g., locked or monitored gates)","value": 49}
+	{"name": "Require metal detector checks on students every day","value": 2.7}
+	{"name": "Perform one or more random metal detector checks on students","value": 7.4}
+	{"name": "Equip classrooms with locks so that doors can be locked from the inside","value": 66}
+	{"name": "Close the campus for most or all students during lunch","value": 72.1}
+	{"name": "Use one or more random dog sniffs to check for drugs","value": 41.9}
      ]
     },
     {
