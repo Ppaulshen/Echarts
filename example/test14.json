@@ -457,13 +457,19 @@
    ]
   },
   {
-   "name": "Homicide at school",
+   "name": "Homicide at school
+",
    "children": [
+
     {"name": "0.2%", "value": 4},
+    {"name": "Shapes", "value": 19118},
+    {"name": "Sort", "value": 6887},
+    {"name": "Stats", "value": 6557},
+    {"name": "Strings", "value": 22026}
    ]
   },
   {
-   "name": "school shooting incident",
+   "name": "vis",
    "children": [
     {
      "name": "axis",
