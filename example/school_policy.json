@@ -54,8 +54,8 @@
   {
    "name": "animate", 
    "children": [
-    {"name": "Easing", "value": 17010},   //3
-    {"name": "FunctionSequence", "value": 5842},   //3
+    {"name": "Easing", "value": 17010},  
+    {"name": "FunctionSequence", "value": 5842},
     {
      "name": "interpolate", 
      "children": [
