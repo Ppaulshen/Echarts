@@ -2,15 +2,31 @@
  "name": "school_policy",
  "children": [
   {
-   "name": "Practices",
+   "name": "analytics",
    "children": [
     {
-     "name": "Require visitors to sign or check in and wear badges",
+     "name": "cluster",
      "children": [
-    {"name": "95.4%", "value":1998}  
+    {"name": "Require visitors to sign or check in and wear badges","value": 95.4}  
     
      ]
     },
+    {
+     "name": "graph",
+     "children": [
+      {"name": "BetweennessCentrality", "value": 3534},
+      {"name": "LinkDistance", "value": 5731},
+      {"name": "MaxFlowMinCut", "value": 7840},
+      {"name": "ShortestPaths", "value": 5914},
+      {"name": "SpanningTree", "value": 3416}
+     ]
+    },
+    {
+     "name": "optimization",
+     "children": [
+      {"name": "AspectRatioBanker", "value": 7074}
+     ]
+    }
    ]
   },
   {
