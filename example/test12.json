@@ -258,116 +258,202 @@
    ]
   },
   {
-   "name": "display",
+   "name": "Student groups",
    "children": [
-    {"name": "DirtySprite", "value": 8833},
-    {"name": "LineSprite", "value": 1732},
-    {"name": "RectSprite", "value": 3623},
-    {"name": "TextSprite", "value": 10066}
-   ]
-  },
-  {
-   "name": "flex",
-   "children": [
-    {"name": "FlareVis", "value": 4116}
-   ]
-  },
-  {
-   "name": "physics",
-   "children": [
-    {"name": "DragForce", "value": 1082},
-    {"name": "GravityForce", "value": 1336},
-    {"name": "IForce", "value": 319},
-    {"name": "NBodyForce", "value": 10498},
-    {"name": "Particle", "value": 2822},
-    {"name": "Simulation", "value": 9983},
-    {"name": "Spring", "value": 2213},
-    {"name": "SpringForce", "value": 1681}
-   ]
-  },
-  {
-   "name": "query",
-   "children": [
-    {"name": "AggregateExpression", "value": 1616},
-    {"name": "And", "value": 1027},
-    {"name": "Arithmetic", "value": 3891},
-    {"name": "Average", "value": 891},
-    {"name": "BinaryExpression", "value": 2893},
-    {"name": "Comparison", "value": 5103},
-    {"name": "CompositeExpression", "value": 3677},
-    {"name": "Count", "value": 781},
-    {"name": "DateUtil", "value": 4141},
-    {"name": "Distinct", "value": 933},
-    {"name": "Expression", "value": 5130},
-    {"name": "ExpressionIterator", "value": 3617},
-    {"name": "Fn", "value": 3240},
-    {"name": "If", "value": 2732},
-    {"name": "IsA", "value": 2039},
-    {"name": "Literal", "value": 1214},
-    {"name": "Match", "value": 3748},
-    {"name": "Maximum", "value": 843},
     {
-     "name": "methods",
+     "name": "Acceptance of sexual orientation* and gender identity* of students (e.g., Gay-Straight Alliance)",
      "children": [
-      {"name": "add", "value": 593},
-      {"name": "and", "value": 330},
-      {"name": "average", "value": 287},
-      {"name": "count", "value": 277},
-      {"name": "distinct", "value": 292},
-      {"name": "div", "value": 595},
-      {"name": "eq", "value": 594},
-      {"name": "fn", "value": 460},
-      {"name": "gt", "value": 603},
-      {"name": "gte", "value": 625},
-      {"name": "iff", "value": 748},
-      {"name": "isa", "value": 461},
-      {"name": "lt", "value": 597},
-      {"name": "lte", "value": 619},
-      {"name": "max", "value": 283},
-      {"name": "min", "value": 283},
-      {"name": "mod", "value": 591},
-      {"name": "mul", "value": 603},
-      {"name": "neq", "value": 599},
-      {"name": "not", "value": 386},
-      {"name": "or", "value": 323},
-      {"name": "orderby", "value": 307},
-      {"name": "range", "value": 772},
-      {"name": "select", "value": 296},
-      {"name": "stddev", "value": 363},
-      {"name": "sub", "value": 600},
-      {"name": "sum", "value": 280},
-      {"name": "update", "value": 307},
-      {"name": "variance", "value": 335},
-      {"name": "where", "value": 299},
-      {"name": "xor", "value": 354},
-      {"name": "-", "value": 264}
+    {"name": "27.6%","value": 578}  
      ]
     },
-    {"name": "Minimum", "value": 843},
-    {"name": "Not", "value": 1554},
-    {"name": "Or", "value": 970},
-    {"name": "Query", "value": 13896},
-    {"name": "Range", "value": 1594},
-    {"name": "StringUtil", "value": 4130},
-    {"name": "Sum", "value": 791},
-    {"name": "Variable", "value": 1124},
-    {"name": "Variance", "value": 1876},
-    {"name": "Xor", "value": 1101}
+    {
+     "name": "Acceptance of students with disabilities (e.g., Best Buddies)",
+     "children": [
+      {"name": "37.6%", "value": 786}
+     ]
+    },
+    {
+     "name": "Acceptance of cultural diversity (e.g., Cultural Awareness Club)",
+     "children": [
+      {"name": "33.9%", "value": 709}
+     ]
+    }
    ]
   },
   {
-   "name": "scale",
+   "name": "school do to involve or help parents",
    "children": [
-    {"name": "IScaleMap", "value": 2105},
-    {"name": "LinearScale", "value": 1316},
-    {"name": "LogScale", "value": 3151},
-    {"name": "OrdinalScale", "value": 3770},
-    {"name": "QuantileScale", "value": 2435},
-    {"name": "QuantitativeScale", "value": 4839},
-    {"name": "RootScale", "value": 1756},
-    {"name": "Scale", "value": 4268},
-    {"name": "ScaleType", "value": 1821},
-    {"name": "TimeScale", "value": 5833}
+    {
+     "name": "Have a formal process to obtain parental input on policies related to school crime and discipline",
+     "children": [
+    {"name": "51%","value": 1066}  
+     ]
+    },
+    {
+     "name": " Provide training or technical assistance to parents in dealing with students' problem behavior",
+     "children": [
+      {"name": "43.2%", "value": 904}
+     ]
+    },
+    {
+     "name": "Have a program that involves parents at school* helping to maintain school discipline",
+     "children": [
+      {"name": "17%", "value": 355}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Society that promotes safe, disciplined and drug-free schools",
+   "children": [
+    {
+     "name": "Parent groupse",
+     "children": [
+    {"name": "59.1%","value": 1236}  
+     ]
+    },
+    {
+     "name": "Social service agencies",
+     "children": [
+      {"name": "64.8%", "value": 1356}
+     ]
+    },
+    {
+     "name": "Juvenile justice agencies",
+     "children": [
+      {"name": "44%", "value": 921}
+     ]
+    },
+    {
+     "name": "Law enforcement agencies",
+     "children": [
+      {"name": "80%", "value": 1673}
+     ]
+    },
+    {
+     "name": "Mental health agencies",
+     "children": [
+      {"name": "62%", "value": 1298}
+     ]
+    },
+    {
+     "name": "Civic organizations/service clubs",
+     "children": [
+      {"name": "44.7%", "value": 936}
+     ]
+    },
+    {
+     "name": "Private corporations/businesses",
+     "children": [
+      {"name": "29.5%", "value": 617}
+     ]
+    },
+    {
+     "name": "Religious organizations",
+     "children": [
+      {"name": "29.2%", "value": 611}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Law enforcement officers patrol the school",
+   "children": [
+    {
+     "name": "at least once a week",
+     "children": [
+    {"name": "65%","value": 1360}  
+     ]
+    },
+    {
+     "name": " At any time during school hours",
+     "children": [
+      {"name": "62.1%", "value": 1299}
+     ]
+    },
+    {
+     "name": "While students were arriving or leaving",
+     "children": [
+      {"name": "56.5%", "value": 1183}
+     ]
+    },
+    {
+     "name": "At selected school activities",
+     "children": [
+      {"name": "55.1%", "value": 1153}
+     ]
+    },
+    {
+     "name": "When school/school activities were not occurring",
+     "children": [
+      {"name": "28.8%", "value": 602}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "sworn law enforcement officers participate",
+   "children": [
+    {
+     "name": "Motor vehicle traffic control",
+     "children": [
+    {"name": "48%","value": 1004}  
+     ]
+    },
+    {
+     "name": "Security enforcement and patrol",
+     "children": [
+      {"name": "56.5%", "value": 1182}
+     ]
+    },
+    {
+     "name": "Maintaining school discipline",
+     "children": [
+      {"name": "40.8%", "value": 854}
+     ]
+    },
+    {
+     "name": "Coordinating with local police and emergency team(s)",
+     "children": [
+      {"name": "59.3%", "value": 1241}
+     ]
+    },
+    {
+     "name": "Identifying problems in the school and proactively seeking solutions to those problems",
+     "children": [
+      {"name": "52.6%", "value": 1100}
+     ]
+    },
+    {
+     "name": "Training teachers and staff in school safety or crime prevention",
+     "children": [
+      {"name": "36.6%", "value": 766}
+     ]
+    },
+    {
+     "name": "Mentoring students",
+     "children": [
+      {"name": "45.8%", "value": 958}
+     ]
+    },
+    {
+     "name": "Teaching a law-related education course or training students (e.g., drug-related education, criminal law, or crime prevention courses)",
+     "children": [
+      {"name": "24.4%", "value": 511}
+     ]
+    },
+    {
+     "name": "Recording or reporting discipline problems to school authorities",
+     "children": [
+      {"name": "50.5%", "value": 1056}
+     ]
+    },
+    {
+     "name": "Providing information to school authorities about the legal definitions of behavior for recording or reporting purposes (e.g., defining assault for school authorities)",
+     "children": [
+      {"name": "51.9%", "value": 1085}
+     ]
+    }
    ]
   },
   {
