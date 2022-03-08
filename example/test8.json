@@ -7,26 +7,154 @@
     {
      "name": "Require visitors to sign or check in and wear badges",
      "children": [
-    {"name": "95.4%","value": 1992}  
-    
+    {"name": "95.4%","value": 1996}  
      ]
     },
     {
-     "name": "graph",
+     "name": "Control access to school buildings during school hours (e.g., locked or monitored doors)",
      "children": [
-      {"name": "BetweennessCentrality", "value": 3534},
-      {"name": "LinkDistance", "value": 5731},
-      {"name": "MaxFlowMinCut", "value": 7840},
-      {"name": "ShortestPaths", "value": 5914},
-      {"name": "SpanningTree", "value": 3416}
+      {"name": "92.8%", "value": 1942}
      ]
     },
     {
-     "name": "optimization",
+     "name": "Control access to school grounds during school hours (e.g., locked or monitored gates)",
      "children": [
-      {"name": "AspectRatioBanker", "value": 7074}
+      {"name": "49%", "value": 1025}
+     ]
+    },
+    {
+     "name": "Require metal detector checks on students every day",
+     "children": [
+      {"name": "2.7%", "value": 57}
+     ]
+    },
+    {
+     "name": "Perform one or more random metal detector checks on students",
+     "children": [
+      {"name": "7.4%", "value": 154}
+     ]
+    },
+    {
+     "name": "Equip classrooms with locks so that doors can be locked from the inside",
+     "children": [
+      {"name": "66%", "value": 1381}
+     ]
+    },
+    {
+     "name": "Close the campus for most or all students during lunch",
+     "children": [
+      {"name": "72.1%", "value": 1509}
+     ]
+    },
+    {
+     "name": "Use one or more random dog sniffs to check for drugs",
+     "children": [
+      {"name": "41.9%", "value": 877}
+     ]
+    },
+    {
+     "name": "Perform one or more random sweeps for contraband (e.g., drugs or weapons*), but not including dog sniffs",
+     "children": [
+      {"name": "18.7%", "value": 392}
+     ]
+    },
+    {
+     "name": "Require drug testing for athletes",
+     "children": [
+      {"name": "11.4%", "value": 239}
+     ]
+    },
+    {
+     "name": "Require drug testing for students in extra-curricular activities other than athletics",
+     "children": [
+      {"name": "8.9%", "value": 187}
+     ]
+    },
+    {
+     "name": "Require students to wear uniforms",
+     "children": [
+      {"name": "17%", "value": 356}
+     ]
+    },
+    {
+     "name": "Enforce a strict dress code",
+     "children": [
+      {"name": "58.1%", "value": 1215}
+     ]
+    },
+    {
+     "name": "Provide school lockers to students",
+     "children": [
+      {"name": "67.3%", "value": 1408}
+     ]
+    },
+    {
+     "name": Have "panic button(s) or silent alarm(s) that directly connect to law enforcement in the event of an incident",
+     "children": [
+      {"name": "29.9%", "value": 626}
+     ]
+    },
+    {
+     "name": "Require clear book bags or ban book bags on school grounds",
+     "children": [
+      {"name": "5.6%", "value": 118}
+     ]
+    },
+    {
+     "name": "Provide an electronic notification system that automatically notifies parents in case of a school-wide emergency",
+     "children": [
+      {"name": "74.5%", "value": 1559}
+     ]
+    },
+    {
+     "name": "Require students to wear badges or picture ID",
+     "children": [
+      {"name": "12.7%", "value": 266}
+     ]
+    },
+    {
+     "name": "Provide a structured anonymous threat reporting system (e.g., online submission, telephone hotline, or written submission via drop box",
+     "children": [
+      {"name": "52.2%", "value": 1092}
+     ]
+    },
+    {
+     "name": "Require faculty and staff to wear badges or picture IDs",
+     "children": [
+      {"name": "69.4%", "value": 1451}
+     ]
+    },
+    {
+     "name": "Use one or more security cameras to monitor the school",
+     "children": [
+      {"name": "87.4%", "value": 1828}
+     ]
+    },
+    {
+     "name": "Provide telephones in most classrooms",
+     "children": [
+      {"name": "81.2%", "value": 1699}
+     ]
+    },
+    {
+     "name": "Provide two-way radios to any staff",
+     "children": [
+      {"name": "73.3%", "value": 1534}
+     ]
+    },
+    {
+     "name": "Limit access to social networking websties (e.g., Facebook, Twitter, YouTube, Instagram) from school computers",
+     "children": [
+      {"name": "88.8%", "value": 1858}
+     ]
+    },
+    {
+     "name": "Prohibit use of cell phones and text messaging devices during school hours",
+     "children": [
+      {"name": "56.4%", "value": 1180}
      ]
     }
+	
    ]
   },
   {
