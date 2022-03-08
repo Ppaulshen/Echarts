@@ -2,12 +2,12 @@
  "name": "school_policy",
  "children": [
   {
-   "name": "analytics",
+   "name": "Practices",
    "children": [
     {
-     "name": "cluster",
+     "name": "Require visitors to sign or check in and wear badges",
      "children": [
-    {"name": "Require visitors to sign or check in and wear badges","value": 95.4}  
+    {"name": "95.4%","value": 1992}  
     
      ]
     },
